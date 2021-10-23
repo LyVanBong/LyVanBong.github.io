@@ -1,2 +1,2 @@
-# lyvanbong.github.io
+# LyVanBong.github.io
 GitHub Pages
